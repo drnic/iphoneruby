@@ -1,3 +1,8 @@
+== 0.1.1 2008-07-03
+
+* Project renamed to 'rbiphonetest'
+* This release is to deprecate the iphoneruby executable and have it return a useful message
+
 == 0.1.0 2008-06-28
 
 * Initial release
