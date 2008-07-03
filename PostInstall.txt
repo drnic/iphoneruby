@@ -1,21 +1,17 @@
 
-You can add Ruby-based unit tests to any iPhone/Xcode project by changing to the 
-project's folder in the terminal/console and running:
+DEPRECATION: You have just installed a gem that is deprecated.
 
-	iphoneruby .
+Sorry.
 
-This adds the test framework, a Rakefile, and an `autotest` config file.
+The new project is called 'rbiphonetest'
 
-You can now create testable Objective-C models/classes using the generator:
-	
-	$ script/generate model WidgetMaker
-		  create  Classes/WidgetMaker.h
-		  create  Classes/WidgetMaker.m
-		  create  test/test_widget_maker.rb
+It has been automatically installed for you. Friendly, yes?
 
-To run tests you have several options:
-	
-1. `rake` or `rake test`
-1. `autotest` (after installing the ZenTest gem)
+See http://github.com/drnic/rbiphonetest/tree/master for additional details.
 
-Enjoy iPhone development with Ruby!
+Usage:
+
+  cd /path/to/iphone/project
+  rbiphonetest .
+
+Then read the instructions displayed.

@@ -1,3 +1,7 @@
+== 0.1.2 2008-07-03
+
+* Gem includes rbiphonetest as a dependency so it will be autoinstalled.
+
 == 0.1.1 2008-07-03
 
 * Project renamed to 'rbiphonetest'
